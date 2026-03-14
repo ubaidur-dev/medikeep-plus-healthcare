@@ -1,5 +1,6 @@
 # MediKeep+ | Smart Family Health & Pharmacy Tracker
-MediKeep+ is a high-level healthcare management tool engineered to simplify how families track their wellbeing. I built this focusing on one core mission: clarity. In a household, keeping track of everyone’s medical routine is often chaotic, so I engineered a seamless interface that bridges the gap between digital inventory and daily family safety.
+MediKeep+ is a professional-grade healthcare management platform engineered to eliminate the chaos of household medical routines. I architected this system with a "Clarity-First" philosophy, focusing on the critical intersection between Digital Inventory Intelligence and Daily Family Compliance.
+In environments where managing multiple prescriptions is prone to human error, MediKeep+ acts as a fail-safe digital shadow for your family’s wellbeing.
 
 ### Key Features
 * **Family Health Synchronization:** A centralized monitoring dashboard that tracks the "Taken/Pending" status of medical routines for the entire family in real-time.
